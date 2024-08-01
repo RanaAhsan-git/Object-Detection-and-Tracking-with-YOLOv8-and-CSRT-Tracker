@@ -39,6 +39,11 @@ Tracker Initialization: The CSRT tracker is initialized with the bounding box of
 
 Real-Time Tracking: The CSRT tracker updates the object's position in subsequent frames, drawing bounding boxes and displaying class names and confidence scores.
 
+# flowchart of process
+
+![flowchart](https://github.com/user-attachments/assets/d8e84a91-f61d-4b56-9eb5-2c1745cb3ea8)
+
+
 **Make sure you have installed the required libraries**
 
 ```
