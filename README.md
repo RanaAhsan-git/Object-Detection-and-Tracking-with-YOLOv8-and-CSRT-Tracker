@@ -92,7 +92,7 @@ By following these steps, you can efficiently label your dataset for training ob
 
 # Training a Dataset with YOLOv8
 
-# 1. Prepare Your Dataset**
+# 1. Prepare Your Dataset
 
 Before training, you need to prepare your dataset. YOLOv8 requires a specific format for annotations, which can be generated using tools like LabelImg.
 
